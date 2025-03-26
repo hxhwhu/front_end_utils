@@ -1,0 +1,16 @@
+{
+  "name": "front_end_utils",
+  "version": "1.0.0",
+  "description": "前端自定义工具函数库",
+  "main": "./src/index.js",
+  "scripts": {
+    "build:watch": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "hanxuehang",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
